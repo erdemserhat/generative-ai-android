@@ -5,7 +5,7 @@ The Google AI client SDK for Android enables developers to use Google's state-of
 - Generate text from text-and-images input (multimodal)
 - Build multi-turn conversations (chat)
 
-For example, with just a few lines of code, you can access Gemini's multimodal capabilities to generate text from text-and-image input:
+For example, with just a few lines of code, you can access Gemini's multimodal capabilities to generate text from text-and-image input
 
 ```kotlin
 val generativeModel = GenerativeModel(
